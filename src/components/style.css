@@ -1,0 +1,46 @@
+
+.buy
+{
+    margin-top:49px;
+    margin-left:30px;
+}
+
+.first-img
+{
+    background-image: url("https://cdn.pixabay.com/animation/2023/07/19/21/01/21-01-15-870_512.gif");
+}
+
+
+.cart1
+{
+    color:white;
+}
+
+.cart
+{
+   color:white
+}
+
+.con
+{
+    background-image: url("https://i.pinimg.com/originals/42/64/a4/4264a4ba598c17ef23685260a13bd849.gif");
+    margin-bottom: 50px;
+}
+
+.quan
+{
+    border-radius:9px;
+    width:40px;
+}
+
+.inc
+{
+    border-radius:7px; 
+    margin-left:4px;
+}
+
+.dec
+{
+    border-radius:8px; 
+    margin-left:4px;
+}
